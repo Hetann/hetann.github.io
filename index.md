@@ -1,7 +1,3 @@
----
-layout: default
----
-
 # Home
 
 Hello, I'm Alessandro, a passionate DevOps 
